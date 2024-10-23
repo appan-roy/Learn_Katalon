@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDT_TestSuiteLevel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf71b4a4-5ac5-4d40-bff7-769719c91e75</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f090dae6-dbc8-44db-9e77-b2d8f81cd5b6</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3e94b53-f758-4473-8a2e-03351de11155</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

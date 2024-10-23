@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OrangeHRMDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51577e44-b198-41e5-abd5-6798d4587fa4</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>7d61a9a5-38b3-44f8-92e7-7879406bd6a6</id>
+      <masked>false</masked>
+      <name>uname</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>7faa2046-9dc0-49f2-8caf-a1787aec8d91</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>
